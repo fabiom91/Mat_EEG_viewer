@@ -1,0 +1,1 @@
+This is the default folder of your EEG files in `.mat` format
